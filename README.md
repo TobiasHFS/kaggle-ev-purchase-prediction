@@ -23,3 +23,7 @@ XGBoost and CatBoost currently use CUDA. Change their settings in `src/models.py
 Ensemble weights are fitted on out-of-fold predictions. Scores from that step include the effect of selecting the blend weights.
 
 [MIT license](LICENSE).
+
+## AI assistance
+
+This project was developed with heavy AI assistance. Codex and Google Antigravity are the main coding tools I use across these projects.

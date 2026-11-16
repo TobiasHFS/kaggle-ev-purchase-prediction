@@ -1,4 +1,4 @@
-# EV Purchase Prediction
+# Kaggle EV Purchase Prediction
 
 Feature engineering, boosting models and ensemble experiments for [Kaggle Playground Series S6E9](https://www.kaggle.com/competitions/playground-series-s6e9).
 
